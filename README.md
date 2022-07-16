@@ -8,8 +8,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelleps&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### 🛠 &nbsp;Tech Stack
- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 
 ### 💬 &nbsp;Social Links
 
