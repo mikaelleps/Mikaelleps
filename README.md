@@ -1,4 +1,4 @@
-# Oii, eu sou a Mikaelle! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30"/> 
+# Oii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30"/> 
  
 
 ### 📈 &nbsp;GitHub Analytics
